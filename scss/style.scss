@@ -122,7 +122,7 @@ body.lock {
                 height: 12px;
                 right: 10px;
                 top: 15px;
-                background: url('/images/arrow-btn.svg') no-repeat;
+                background: url('images/arrow-btn.svg') no-repeat;
             }
         }
         &-about {
@@ -429,7 +429,7 @@ justify-content: right;
                     left: 0;
                     position: absolute;
                     content: "";
-                    background: url("/images/rogki.png") no-repeat;
+                    background: url("images/rogki.png") no-repeat;
                     width: 190px;
                     height: 70px;
                     bottom: 0;
@@ -518,7 +518,7 @@ justify-content: right;
 }
 .review-slider .slick-arrow.slick-prev {
     right: 125px;
-    background: url('../images/arrow-left.svg') 0 0 / 100% no-repeat;
+    background: url('..images/arrow-left.svg') 0 0 / 100% no-repeat;
     &::after {
         content: '';
         background-color: rgba(0, 0, 0, 0.3);
@@ -533,7 +533,7 @@ justify-content: right;
 }
 .review-slider .slick-arrow.slick-next {
     right: 60px;
-    background: url('../images/arrow-rigth.svg') 0 0 / 100% no-repeat;
+    background: url('..images/arrow-rigth.svg') 0 0 / 100% no-repeat;
 }
 
 
@@ -676,7 +676,7 @@ justify-content: right;
 }
 .popup-slider .slick-arrow.slick-prev {
     right: 59%;
-    background: url('../images/arrow-left.svg') 0 0 / 100% no-repeat;
+    background: url('..images/arrow-left.svg') 0 0 / 100% no-repeat;
     &::after {
         content: '';
         background-color: rgba(0, 0, 0, 0.3);
@@ -691,7 +691,7 @@ justify-content: right;
 }
 .popup-slider .slick-arrow.slick-next {
     right: 54%;
-    background: url('../images/arrow-rigth.svg') 0 0 / 100% no-repeat;
+    background: url('..images/arrow-rigth.svg') 0 0 / 100% no-repeat;
 }
 .popup-slider .slick-dots {
     display: flex;
@@ -706,7 +706,7 @@ justify-content: right;
     font-size: 0%;
     border: none;
     background-color: #FFFFFF;
-    background: url('/images/block-parket.jpg') no-repeat;
+    background: url('images/block-parket.jpg') no-repeat;
     width: 53px;
     height: 53px;
     cursor: pointer;
@@ -800,7 +800,7 @@ justify-content: right;
     right: 10px;
     top: 10px;
     font-size: 20px;
-    background-image: url("/images/close.png");
+    background-image: url("images/close.png");
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
